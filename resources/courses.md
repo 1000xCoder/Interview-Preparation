@@ -18,7 +18,7 @@
    - Step-by-step system design approach
    - Real-world case studies
    - Interactive diagrams
-   - [Course Link](https://www.educative.io/courses/grokking-the-system-design-interview)
+   - [Course Link](https://www.designgurus.io/course/grokking-the-system-design-interview)
 
 ## Interview Preparation
 1. **Master the Coding Interview** - Udemy
